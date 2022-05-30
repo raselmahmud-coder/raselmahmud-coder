@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rasel Mahmud a JavaScript Developer.
-- 💞️ I Have 2 Years + Experience And I'm Working With Many Clients, got a level one seller badge at Fiverr.
+- 💞️ I Have 2 Years + Experience as a Web Designer at Fiverr And I'm Working With Many Clients, got a level one seller badge at Fiverr.
 - 🌱 I Have Powerful Experience In: 
 - </> JavaScript ES6 including DOM manipulation 
 - </> React JS, Node JS, Express JS, MongoDB 
