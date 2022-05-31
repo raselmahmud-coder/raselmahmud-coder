@@ -13,6 +13,7 @@
 - 💞️ I’m looking to collaborate on any JS Projects for learning
 - 📫 How to reach me raselswpu@foxmail.com
 
+![GitHub Logo](/images/github-logo.png)
 
 https://github-readme-stats.vercel.app/api?username=raselmahmud22&theme=blue-green&amp%3Bshow_icons=true&amp%3Bcount_private=true&amp%3Bhide_border=true
 
