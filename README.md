@@ -1,4 +1,5 @@
-<span align="center">![Profile views](https://gpvc.arturio.dev/raselmahmud22)</span>
+<span align="center">![Profile views](https://komarev.com/ghpvc/?username=raselmahmud22&color=green)</span>
+
 <h1 align="center">Recent Full-Stack Projects </h1> 
 
 
