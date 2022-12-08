@@ -31,7 +31,7 @@
 <h2>Here is recent Challenges design and development</h2>
 
  - [x] [Chart.js React Dashboard](https://rm-chartjs-react-dashboard.netlify.app/)
- - [x] [Service provider](https://assignment-10-8fc08.web.app/)
+ - [x] [Hetali Web](https://hetali-front-end.vercel.app/)
  - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
  - [x] [Social Network](https://atg-social-media.netlify.app/)
 
