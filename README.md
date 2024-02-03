@@ -45,4 +45,4 @@
 <!--- [![Rasel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raselmahmud22&theme=react)](https://github.com/raselmahmud22/github-readme-activity-graph)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselmahmud-coder)](https://github.com/raselmahmud22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselmahmud-coder)](https://github.com/raselmahmud-coder/github-readme-stats)
