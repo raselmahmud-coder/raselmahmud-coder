@@ -1,3 +1,4 @@
+<!---
 <span align="center">![Profile views](https://komarev.com/ghpvc/?username=raselmahmud22&color=green)</span>
 
 <h1 align="center">Recent Full-Stack Projects </h1> 
@@ -8,9 +9,9 @@
 |<h2> [Auto Parts Elegant](https://autoparts-assign-12.web.app/)  </h2> | <h2> [Talent Recruiter](https://talent-recruiter.netlify.app)  </h2>  |
 | ------------------------------------------------ | ------------------------------------------------ |
 |<ul>  <li>Awesome notification systems </ul> </li> |   <ul>  <li>Banner section animation with job search </ul> </li> |      
-|<ul>  <li> Admin can manage the whole site from the dashboard.</li> </ul>|  <ul>  <li> Job seeker can apply desire jobs control applied job from dashboard  </li> </ul>|
-|<ul>  <li> Users role-based authentication for new users with JWT token.</li> </ul>| <ul><li>Admin Dashboard can cotrol full web application i.e. jobs, blogs, payment </ul> </li> |
-|<ul>  <li> Uers can purchase using any card for payment.</li> </ul>| <ul>  <li> Strip payment integration  </li> </ul> |
+|<ul>  <li> Admin can manage the whole site from the dashboard.</li> </ul>|  <ul>  <li> Job seeker can apply desired jobs control applied job from dashboard  </li> </ul>|
+|<ul>  <li> Users role-based authentication for new users with JWT token.</li> </ul>| <ul><li>Admin Dashboard can control full web application i.e. jobs, blogs, payment </ul> </li> |
+|<ul>  <li> Users can purchase using any card for payment.</li> </ul>| <ul>  <li> Strip payment integration  </li> </ul> |
 |<ul>  <li> Tech use React Firebase, React-router-dom v6, Node, MongoDB, Express, Axios, Custom Hooks</li> </ul>| <ul><li>Tech used :React, Redux, React-router-dom v6, Node, MongoDB, Express, Mongoose, Custom Hooks </ul> </li> |
 |<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/manufacturer-website-front-side)  </h3></ul> </li>   |<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/Talent-Recruiter)</h3>  </ul> </li>   |
  |<ul><li> <h3> [  Server-side Code ](https://github.com/raselmahmud22/manufacturer-website-back-end-side) </h3></ul> </li>    |<ul><li> <h3> [ Server-side Code ](https://github.com/raselmahmud22/talent-recruiter-server)</h3></ul> </li>       |
@@ -28,13 +29,13 @@
 
 
 
-<h2>Here is recent Challenges design and development</h2>
+<h2>Here are recent Challenges in design and development</h2>
 
  - [x] [Chart.js React Dashboard](https://rm-chartjs-react-dashboard.netlify.app/)
  - [x] [Hetali Web](https://hetali-front-end.vercel.app/)
  - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
  - [x] [Social Network](https://atg-social-media.netlify.app/)
-
+-->
 
 <h3 align="left">Languages and Tools:  </h3>
 
