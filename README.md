@@ -59,7 +59,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselmahmud-coder&" alt="raselmahmud-coder" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselmahmud-coder&" alt="raselmahmud-coder" /></p>
 <!---
 [![Rasel Mahmud's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselmahmud-coder&bg_color=9e9e9e&color=007bff&line=4d71fe&point=212121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
