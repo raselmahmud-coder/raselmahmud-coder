@@ -70,11 +70,3 @@
 
 
 
-
-```mermaid
-flowchart TD
-    A["Take action $a_i$ in ENV"] --> B["Insert $(s_i, a_i, s_{i+1}, r_i)$ into Experience Replay"]
-    B --> C["Check if Experience Replay has enough samples $\\tau$"]
-    C -->|Yes| D["Compute target: $\\text{target}(s_i) = r_i + \\gamma \\max_{a'} Q_{\\phi}(s_{i+1}, a')$"]
-    D --> E["Update $\\phi$ using gradient descent"]
-
