@@ -38,7 +38,9 @@
 -->
 Hi, thank you for visiting my profile.
 
-If you're looking for a self-motivated student for long-term research in your lab, please email me. I would greatly appreciate it.
+### If you're looking for a self-motivated student for long-term research in your lab.
+
+Please email me. I would greatly appreciate it.
 
 Here’s a glimpse of what I bring to the table:
 
@@ -60,7 +62,7 @@ Here’s a glimpse of what I bring to the table:
 
 As I continue to expand my knowledge and skills, I’m eager to apply them in a dynamic and real-world setting.
 
-<h6>My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.</h6>
+### My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.
 
 If you're looking for an enthusiastic, fast learner with a diverse skill set who’s passionate about applying machine learning to make a real impact.
 
