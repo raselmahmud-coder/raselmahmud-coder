@@ -36,26 +36,28 @@
  - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
  - [x] [Social Network](https://atg-social-media.netlify.app/)
 -->
-Hi, Thank you for visiting my profile. I am currently looking for a long-term internship, which is required by my grad school.
+Hi, thank you for visiting my profile.
+If you're looking for a self-motivated student for long-term research in your lab, please email me. I would greatly appreciate it.
+
 Here’s a glimpse of what I bring to the table:
 
 ⭐<b>Supervised and Unsupervised Learning</b> – Proficient in regression, classification, clustering, and dimensionality reduction.
 
 ⭐<b>Deep Learning</b> – Neural Networks, CNNs, RNNs, Transfer Learning, and Reinforcement Learning.
 
-⭐Natural Language Processing (NLP) – Applied NLP techniques for text analysis, sentiment analysis, and chatbot development.
+⭐<b>Natural Language Processing (NLP)</b> – Applied NLP techniques for text analysis, sentiment analysis, and chatbot development.
 
-⭐Computer Vision – Knowledge of image processing, object detection, and facial recognition using CNNs.
+⭐<b>Computer Vision</b> – Knowledge of image processing, object detection, and facial recognition using CNNs.
 
-⭐Data Preprocessing – Skilled in handling noisy data, feature engineering, and feature selection.
+⭐<b>Data Preprocessing</b> – Skilled in handling noisy data, feature engineering, and feature selection.
 
-⭐Model Evaluation – Experienced with performance metrics such as accuracy, precision, recall, F1-score, and cross-validation.
+⭐<b>Model Evaluation</b> – Experienced with performance metrics such as accuracy, precision, recall, F1-score, and cross-validation.
 
-⭐Proficiency in popular ML frameworks – NumPy, Pandas, Matplotlib, PyTorch, and Scikit-learn.
+⭐Proficiency in popular ML frameworks – <b>NumPy, Pandas, Matplotlib, PyTorch, and Scikit-learn</b>.
 
-⭐Strong understanding of fundamental algorithms, data structures, and ML Math.
+⭐Strong understanding of <b>fundamental algorithms, data structures, and ML Math</b>.
 
-As I continue to expand my knowledge and skills, I’m eager to apply them in a dynamic, real-world setting.
+As I continue to expand my knowledge and skills, I’m eager to apply them in a dynamic and real-world setting.
 
 My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.
 
