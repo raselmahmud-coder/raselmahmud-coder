@@ -39,9 +39,9 @@
 Hi, Thank you for visiting my profile. I am currently looking for a long-term internship, which is required by my grad school.
 Here’s a glimpse of what I bring to the table:
 
-⭐Supervised and Unsupervised Learning – Proficient in regression, classification, clustering, and dimensionality reduction.
+⭐<b>Supervised and Unsupervised Learning</b> – Proficient in regression, classification, clustering, and dimensionality reduction.
 
-⭐Deep Learning – Neural Networks, CNNs, RNNs, Transfer Learning, and Reinforcement Learning.
+⭐<b>Deep Learning</b> – Neural Networks, CNNs, RNNs, Transfer Learning, and Reinforcement Learning.
 
 ⭐Natural Language Processing (NLP) – Applied NLP techniques for text analysis, sentiment analysis, and chatbot development.
 
@@ -63,7 +63,7 @@ If you're looking for an enthusiastic, fast learner with a diverse skill set who
 let’s connect! my email: raselswpu@foxmail.com
 Thank You
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psi-rose.vercel.app?user=raselmahmud-coder" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psi-rose.vercel.app?user=raselmahmud-coder" alt="GitHub Streak" /></a> -->
 <!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raselmahmud-coder" alt="raselmahmud-coder" /></p> -->
 <!---
 [![Rasel Mahmud's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselmahmud-coder&bg_color=9e9e9e&color=007bff&line=4d71fe&point=212121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
