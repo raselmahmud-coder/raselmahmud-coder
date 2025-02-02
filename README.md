@@ -60,7 +60,7 @@ Here’s a glimpse of what I bring to the table:
 
 As I continue to expand my knowledge and skills, I’m eager to apply them in a dynamic and real-world setting.
 
-My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.
+<h6>My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.</h6>
 
 If you're looking for an enthusiastic, fast learner with a diverse skill set who’s passionate about applying machine learning to make a real impact.
 
