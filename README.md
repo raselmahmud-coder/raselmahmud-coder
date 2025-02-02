@@ -37,6 +37,7 @@
  - [x] [Social Network](https://atg-social-media.netlify.app/)
 -->
 Hi, thank you for visiting my profile.
+
 If you're looking for a self-motivated student for long-term research in your lab, please email me. I would greatly appreciate it.
 
 Here’s a glimpse of what I bring to the table:
@@ -62,7 +63,9 @@ As I continue to expand my knowledge and skills, I’m eager to apply them in a 
 My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.
 
 If you're looking for an enthusiastic, fast learner with a diverse skill set who’s passionate about applying machine learning to make a real impact.
+
 let’s connect! my email: raselswpu@foxmail.com
+
 Thank You
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-psi-rose.vercel.app?user=raselmahmud-coder" alt="GitHub Streak" /></a> -->
