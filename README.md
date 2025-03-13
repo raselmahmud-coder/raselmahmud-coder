@@ -38,8 +38,6 @@
 -->
 Hi, thank you for visiting my profile.
 
-### If you're looking for a self-motivated student for long-term research in your lab.
-
 Please email me. I would greatly appreciate it.
 
 Here’s a glimpse of what I bring to the table:
