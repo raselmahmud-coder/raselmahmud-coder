@@ -38,8 +38,6 @@
 -->
 Hi, thank you for visiting my profile.
 
-Please email me. I would greatly appreciate it.
-
 Here’s a glimpse of what I bring to the table:
 
 ⭐<b>Supervised and Unsupervised Learning</b> – Proficient in regression, classification, clustering, and dimensionality reduction.
