@@ -1,68 +1,34 @@
-<!---
-<span align="center">![Profile views](https://komarev.com/ghpvc/?username=raselmahmud22&color=green)</span>
+**My Open-Source Projects**
 
-<h1 align="center">Recent Full-Stack Projects </h1> 
+**Agentic Web Spider**
 
+* Developed a job data scraper using Selenium and a custom search engine to extract data from multiple job sites.
+* Managed authentication with cookies and sessions, ensuring access to restricted job platform data.
+* Stored scraped data in a structured CSV format and enriched it through API calls to external services.
 
+**nanoGPT**
 
+* Fine-tuned a 1.5B-parameter model on two public datasets, News and Quotes, using a consumer-grade NVIDIA RTX 4060 GPU.
+* Implemented headline and quote generation pipelines, ensuring contextually accurate and coherent text output.
+* Achieved high-quality text generation performance on both datasets, maintaining natural flow and relevance, with an MFU of 3.77%.
 
-|<h2> [Auto Parts Elegant](https://autoparts-assign-12.web.app/)  </h2> | <h2> [Talent Recruiter](https://talent-recruiter.netlify.app)  </h2>  |
-| ------------------------------------------------ | ------------------------------------------------ |
-|<ul>  <li>Awesome notification systems </ul> </li> |   <ul>  <li>Banner section animation with job search </ul> </li> |      
-|<ul>  <li> Admin can manage the whole site from the dashboard.</li> </ul>|  <ul>  <li> Job seeker can apply desired jobs control applied job from dashboard  </li> </ul>|
-|<ul>  <li> Users role-based authentication for new users with JWT token.</li> </ul>| <ul><li>Admin Dashboard can control full web applications i.e. jobs, blogs, payment </ul> </li> |
-|<ul>  <li> Users can purchase using any card for payment.</li> </ul>| <ul>  <li> Strip payment integration  </li> </ul> |
-|<ul>  <li> Tech use React Firebase, React-router-dom v6, Node, MongoDB, Express, Axios, Custom Hooks</li> </ul>| <ul><li>Tech used :React, Redux, React-router-dom v6, Node, MongoDB, Express, Mongoose, Custom Hooks </ul> </li> |
-|<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/manufacturer-website-front-side)  </h3></ul> </li>   |<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/Talent-Recruiter)</h3>  </ul> </li>   |
- |<ul><li> <h3> [  Server-side Code ](https://github.com/raselmahmud22/manufacturer-website-back-end-side) </h3></ul> </li>    |<ul><li> <h3> [ Server-side Code ](https://github.com/raselmahmud22/talent-recruiter-server)</h3></ul> </li>       |
+**Speech-to-Speech AI Agent**
 
+* Developed an AI-powered mortgage assistant enabling real-time voice and video communication via WebRTC, with integrated live chat, screen sharing, and cross-device compatibility.
+* Built intelligent voice interaction workflows using advanced speech-to-speech and NLP pipelines to deliver natural, domain-specific mortgage consultations.
+* Engineered a multi-channel client platform combining AI-driven voice, text, and collaboration features to enhance user experience and streamline mortgage advisory services.
 
-|<h2> [Single Service Provider](https://assignment-10-8fc08.web.app) </h2> | <h2> [King Furniture](https://assignment-11-b89a5.web.app/)  </h2>  |
-| ------------------------------------------------ | ------------------------------------------------ |
-|<ul>  <li>Awesome notification systems </ul> </li> |   <ul>  <li>Product showcase with css3 animation    </ul> </li> |      
-|<ul>  <li> Admin can manage the whole site from the dashboard.</li> </ul>|  <ul>  <li> Firebase auth using for user login and registration.  </li> </ul>|
-|<ul>  <li> Users role-based authentication for new users with JWT token.</li> </ul>| <ul><li>Dashboard for admin and Created accessible and responsive user interfaces  </ul> </li> |
-|<ul>  <li> Uers can purchase using any card for payment.</li> </ul>| <ul>  <li> Strip payment integration  </li> </ul> |
-|<ul>  <li> Tech use React Firebase, React-router-dom v6, Node, MongoDB, Express, Axios, Custom Hooks</li> </ul>| <ul><li>Tech use :React, Firebase, React-router-dom v6, Node, MongoDB, Express, Axios, Custom Hooks </ul> </li> |
-|<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/Independent-service-provider)  </h3></ul> </li>   |<ul><li> <h3> [Client-side Code ](https://github.com/raselmahmud22/ware-house-management-client-side)</h3>  </ul> </li>   |
- |<ul><li> <h3> [  Server-side Code ](https://github.com/raselmahmud22/manufacturer-website-back-end-side) </h3></ul> </li>    |<ul><li> <h3> [ Server-side Code ](https://github.com/raselmahmud22/ware-house-management-server-side)  </h3></ul> </li>       |
+**My Proprietary Projects**
 
+**Agentic HR AI**
+
+* Built a multi-process orchestration system with platform-specific scrapers and browser APIs.
+* Improved anti-detection and resilience through human-like input simulation, session isolation, database logging, retry mechanisms, and graceful shutdown handling.
+* Developed task modes and a resume-filtering engine with REST and SSE-based backend communication.
 
 
-<h2>Here are recent Challenges in design and development</h2>
 
- - [x] [Chart.js React Dashboard](https://rm-chartjs-react-dashboard.netlify.app/)
- - [x] [Hetali Web](https://hetali-front-end.vercel.app/)
- - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
- - [x] [Social Network](https://atg-social-media.netlify.app/)
--->
-Hi, thank you for visiting my profile.
-
-Here’s a glimpse of what I bring to the table:
-
-⭐<b>Supervised and Unsupervised Learning</b> – Proficient in regression, classification, clustering, and dimensionality reduction.
-
-⭐<b>Deep Learning</b> – Neural Networks, CNNs, RNNs, Transfer Learning, and Reinforcement Learning.
-
-⭐<b>Natural Language Processing (NLP)</b> – Applied NLP techniques for text analysis, sentiment analysis, and chatbot development.
-
-⭐<b>Computer Vision</b> – Knowledge of image processing, object detection, and facial recognition using CNNs.
-
-⭐<b>Data Preprocessing</b> – Skilled in handling noisy data, feature engineering, and feature selection.
-
-⭐<b>Model Evaluation</b> – Experienced with performance metrics such as accuracy, precision, recall, F1-score, and cross-validation.
-
-⭐Proficiency in popular ML frameworks – <b>NumPy, Pandas, Matplotlib, PyTorch, and Scikit-learn</b>.
-
-⭐Strong understanding of <b>fundamental algorithms, data structures, and ML Math</b>.
-
-As I continue to expand my knowledge and skills, I’m eager to apply them in a dynamic and real-world setting.
-
-### My goal is to contribute meaningfully to cutting-edge projects while further honing my expertise in the AI domain.
-
-If you're looking for an enthusiastic, fast learner with a diverse skill set who’s passionate about applying machine learning to make a real impact.
-
-let’s connect! my email: raselswpu@foxmail.com
+My email: raselswpu@foxmail.com
 
 Thank You
 
